@@ -10,5 +10,8 @@
     "url": "git+ssh://git@github.com/dmshvetsov/node-playground.git"
   },
   "author": "Dmitry Shvetsov <dmitryshvetsov.com>",
-  "homepage": "https://github.com/dmshvetsov/node-playground#readme"
+  "homepage": "https://github.com/dmshvetsov/node-playground#readme",
+  "dependencies": {
+    "sinon": "^10.0.1"
+  }
 }
